@@ -1,0 +1,23 @@
+1)Login URL = https://testffc.nimapinfotech.com/auth/login
+
+I set environment and variables and after write this below code in the body and perform POST method.
+and Login with valid and Invalid credential.
+
+{
+    "username": "{{username}}",
+    "password": "{{password}}"
+}
+
+2)Add Customer URL= https://testffc.nimapinfotech.com/customers
+
+I set environment and variables and after write this below code in the body and perform POST method.
+and Add customer.
+
+{
+    "Customer Name": "Sakshi",
+    "Mobile Number": "8669450158",
+    "email": "johndoe@example.com"
+   
+}
+
+
